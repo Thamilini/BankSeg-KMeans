@@ -53,4 +53,6 @@ This project uses K-means clustering to segment customers into clusters. K-means
 
 ![A graphical look at k-means clustering](https://ds055uzetaobb.cloudfront.net/brioche/uploads/y4KGN92h7r-screen-shot-2016-05-05-at-43007-pm.png?width=1200)
 
+Image Source: k-Means Clustering. Brilliant.org. Retrieved 19:39, October 25, 2023, from https://brilliant.org/wiki/k-means-clustering/
+
 
